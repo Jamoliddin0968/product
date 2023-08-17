@@ -2,3 +2,4 @@ django
 pillow 
 djangorestframework
 django-jazzmin
+gunicorn
